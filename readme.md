@@ -1,0 +1,1 @@
+self is a keyword that refers to current instance of class
